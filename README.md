@@ -6,7 +6,7 @@ Folders are divided in:
 - `contract`: which contains all contract files
 - `ui`: which contains user interface
 
-Contract is live here: https://ico.ownlabs.dev and the contract can be accessed at ``.
+Contract is live here: https://ico.ownlabs.dev and the contract can be accessed at `0x8DE6aeC05F93Be224c8883d75f8ef42bA7423980`.
 
 ## Build the project
 
